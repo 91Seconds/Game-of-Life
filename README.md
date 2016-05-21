@@ -1,5 +1,7 @@
 # Game-of-Life
 
+#Currently Abandoned
+
 User Story
 User sees a grid of tiles and clicks on them to toggle between live and dead the 
 can either run the sim at an animation speed or step through, and at each step should
